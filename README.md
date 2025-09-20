@@ -40,14 +40,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-<a href="https://github.com/ericaldi" title="Perfil de Emerson">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ericaldi&theme=dracula&show_icons=true" />
-</a>
-
----
-
 ## 🌐 Conecta conmigo  
 
 [![Linkedin](https://img.shields.io/badge/-emersonyurivilca-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emersonyurivilca)  
